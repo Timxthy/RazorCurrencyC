@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FC86D559-45F8-4D5E-A9B3-ED5BBE3FF67F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorCurrencyC/Pages/Privacy.cshtml">
+    <Files>
+      <File FileName="RazorCurrencyC/Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="RazorCurrencyC/Pages/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="RazorCurrencyC/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="RazorCurrencyC/Pages/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="RazorCurrencyC/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="RazorCurrencyC/Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="RazorCurrencyC/Pages/Privacy.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorCurrencyC" expanded="True">
+            <Node name="RazorCurrencyC" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Properties" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RazorCurrencyC FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
